@@ -1,50 +1,50 @@
-<h1 align="center">¡Hola, soy William Vásquez! 👋</h1>
 <p align="center">
-  <b>Estudiante de Ciberseguridad y Auditoría Informática en Tecsup</b><br>
-  Apasionado por la protección de redes, el análisis defensivo y la mejora continua en seguridad de la información.
+  <!-- Reemplaza el enlace de abajo por la URL de tu foto de perfil de GitHub o tu logo -->
+  <img src="https://github.com/williamvasquez2604-crypto.png" width="130" style="border-radius: 50%; border: 2px solid #0ea5e9;" alt="William Vásquez"/>
+</p>
+
+<h1 align="center">William Vásquez</h1>
+<p align="center">
+  <b>Estudiante de Ciberseguridad & Auditoría Informática | Tecsup</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-En_Constante_Aprendizaje-blue?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Enfoque-Blue_Team_%2F_Networking-orange?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tecsup-Ciberseguridad-red?style=for-the-badge&logo=school&logoColor=white" />
+  <img src="https://img.shields.io/badge/Area-Blue_Team_%2F_Networking-0284c7?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enfoque-Seguridad_Defensiva-0d9488?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mí
-* 🌱 Actualmente cursando mi formación técnica especializada en **Tecsup**, fortaleciendo mis bases en infraestructura, redes y ciberseguridad.
-* 💼 Cuento con sólida experiencia laboral previa, lo que me aporta **madurez, disciplina, resiliencia y alta responsabilidad** en la gestión de proyectos y resolución de problemas bajo presión.
-* 🎯 **Mi objetivo:** Aportar valor desde el primer día en equipos de tecnología y seguridad defensiva, aplicando buenas prácticas y un enfoque analítico riguroso.
+## Perfil Profesional
+
+Estudiante de especialización técnica en Tecsup, enfocado en la protección de infraestructuras, análisis de redes y auditoría de sistemas. 
+
+Aporto una sólida madurez laboral previa, caracterizada por la disciplina, la resiliencia y el compromiso riguroso en la gestión de proyectos y resolución de situaciones bajo presión.
 
 ---
 
-### 🛠️ Stack Tecnológico y Herramientas
+## Stack Tecnológico
 
-| Categoría | Herramientas / Tecnologías |
+| Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Sistemas Operativos** | `Linux (Ubuntu, Kali)`, `Windows Server` |
-| **Redes y Análisis** | `Wireshark`, `Nmap`, `TCP/IP`, `Routing & Switching` |
-| **Seguridad & Hacking** | `Fundamentos SOC`, `Análisis de Vulnerabilidades`, `TryHackMe` |
-| **Automatización** | `Python (Básico/Intermedio)`, `Git & GitHub` |
+| **Sistemas & Redes** | `Linux (Ubuntu, Kali)`, `Windows Server`, `TCP/IP`, `Routing & Switching` |
+| **Seguridad & Análisis** | `Wireshark`, `Nmap`, `Análisis de Vulnerabilidades`, `Fundamentos SOC` |
+| **Desarrollo & Control** | `Python (Básico/Intermedio)`, `Git & GitHub` |
 
 ---
 
-### 🚀 Proyectos Destacados en Portafolio
-*(Aquí iremos agregando tus proyectos conforme los desarrolles, como tu análisis de tráfico de red y laboratorios)*
-* 🔍 **[Próximamente] Análisis de Tráfico de Red con Wireshark** – Auditoría de paquetes y detección de credenciales en texto plano con reporte de mitigación.
-* 🐍 **[Próximamente] Scripts de Automatización en Python** – Herramientas auxiliares para tareas repetitivas de ciberseguridad.
+## Proyectos Destacados
+
+* **Auditoría de Tráfico de Red** – Análisis de paquetes con Wireshark para identificación de patrones y mitigación de riesgos.
+* **Automatización de Tareas** – Scripts en Python orientados al soporte y optimización de procesos técnicos.
 
 ---
 
-### 📊 Estadísticas de GitHub
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=williamvasquez2604-crypto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=williamvasquez2604-crypto&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" />
 </p>
 
----
-
-### 📫 ¿Cómo conectar conmigo?
-* 💼 **LinkedIn:** [Añade aquí el enlace a tu perfil profesional]
-* ✉️ **Correo:** [Tu correo electrónico de contacto]
+<p align="center">
+  <a href="https://linkedin.com/in/tu-usuario">LinkedIn</a> &nbsp;&bull;&nbsp; 
+  <a href="mailto:tu-correo@email.com">Contacto por Correo</a>
 </p>
