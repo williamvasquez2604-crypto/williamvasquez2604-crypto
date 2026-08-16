@@ -4,7 +4,7 @@
 </p>
 
 <!-- ENCABEZADO PRINCIPAL -->
-<h1 align="center">William Vásquez</h1>
+<h1 align="center">William Vasquez</h1>
 <p align="center">
   <b>Estudiante de Ciberseguridad & Auditoría Informática | Tecsup</b>
 </p>
@@ -49,7 +49,7 @@ Cuento con una sólida experiencia laboral previa, lo que me aporta una fuerte �
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=williamvasquez2604-crypto&show_icons=true&bg_color=16184B&title_color=0ea5e9&text_color=e2e8f0&icon_color=0ea5e9&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub de William Vásquez" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=williamvasquez2604-crypto&show_icons=true&bg_color=16184B&title_color=0ea5e9&text_color=e2e8f0&icon_color=0ea5e9&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub de William Vasquez" />
 </p>
 
 ---
