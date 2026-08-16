@@ -57,7 +57,7 @@ Cuento con una sólida experiencia laboral previa, lo que me aporta una fuerte �
 ## Contacto y Enlaces
 
 <p align="center">
-  <a href="https://linkedin.com/in/william-vasquez-4079a4236">
+  <a href="https://www.linkedin.com/in/william-vasquez-4079a4236/">
     <img src="https://img.shields.io/badge/LinkedIn-William_Vásquez-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> &nbsp;&bull;&nbsp;
   <a href="mailto:tu-correo@email.com">
